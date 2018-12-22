@@ -1,0 +1,4 @@
+include ':app'
+
+include ':LineChartView'
+project (":LineChartView").projectDir = new File("C:\\Users\\hermi\\AndroidStudioProjects\\HermitLibSet\\LineChartView")
